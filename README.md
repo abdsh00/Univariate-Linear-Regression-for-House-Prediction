@@ -3,4 +3,4 @@ Using Numpy
 <br>
 This Program shows the implementation of Univariate linear regression for house prediction.
 <br>
-Cost Function, Gradient Descent are created manually.
+Cost Function, Gradient Descent are created manually
